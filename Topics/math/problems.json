@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-10-06T17:55:18.613Z",
+  "updatedAt": "2026-10-06T17:55:39.179Z",
   "problems": [
     {
       "frontendId": "2",
@@ -123,6 +123,26 @@
           "path": "1903-largest-odd-number-in-string/1903-largest-odd-number-in-string.java",
           "sha": "13d1ab2db7456ef791dbeb2fc694e0134b53c134",
           "lastSyncedAt": "2026-10-06T17:52:50.207Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3875",
+      "title": "Construct Uniform Parity Array I",
+      "slug": "construct-uniform-parity-array-i",
+      "problemName": "3875-construct-uniform-parity-array-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/construct-uniform-parity-array-i/",
+      "folderPath": "3875-construct-uniform-parity-array-i/",
+      "readmePath": "3875-construct-uniform-parity-array-i/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3875-construct-uniform-parity-array-i.java",
+          "path": "3875-construct-uniform-parity-array-i/3875-construct-uniform-parity-array-i.java",
+          "sha": "b4b74b86e577a01c125efe501aebef214962e400",
+          "lastSyncedAt": "2026-10-06T17:55:39.179Z"
         }
       ]
     }
