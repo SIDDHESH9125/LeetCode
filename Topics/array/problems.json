@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-06T17:49:27.867Z",
+  "updatedAt": "2026-10-06T17:49:33.766Z",
   "problems": [
     {
       "frontendId": "1",
@@ -202,7 +202,7 @@
           "filename": "2149-rearrange-array-elements-by-sign.java",
           "path": "2149-rearrange-array-elements-by-sign/2149-rearrange-array-elements-by-sign.java",
           "sha": "5d9bfbf9847d4e1ca7a89eb8dc035819d66ec284",
-          "lastSyncedAt": "2026-10-06T17:42:50.055Z"
+          "lastSyncedAt": "2026-10-06T17:49:33.766Z"
         }
       ]
     }
