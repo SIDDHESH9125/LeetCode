@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-10-06T17:52:50.207Z",
+  "updatedAt": "2026-10-06T17:55:56.761Z",
   "problems": [
     {
       "frontendId": "5",
@@ -43,6 +43,26 @@
           "path": "0008-string-to-integer-atoi/0008-string-to-integer-atoi.java",
           "sha": "35a09f5c314498c3b931b2fa4232e1617b60f238",
           "lastSyncedAt": "2026-10-06T17:50:34.536Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "14",
+      "title": "Longest Common Prefix",
+      "slug": "longest-common-prefix",
+      "problemName": "0014-longest-common-prefix",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-common-prefix/",
+      "folderPath": "0014-longest-common-prefix/",
+      "readmePath": "0014-longest-common-prefix/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0014-longest-common-prefix.java",
+          "path": "0014-longest-common-prefix/0014-longest-common-prefix.java",
+          "sha": "c2b8d7e3a2515d9469edb3fa7fd118ba6c766066",
+          "lastSyncedAt": "2026-10-06T17:55:56.761Z"
         }
       ]
     },
