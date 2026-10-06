@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-06T17:55:56.761Z",
+  "updatedAt": "2026-10-06T17:56:18.646Z",
   "problems": [
     {
       "frontendId": "1",
@@ -143,6 +143,26 @@
           "path": "0048-rotate-image/0048-rotate-image.java",
           "sha": "3b6121559373f17e94c18db443cecb70358c97fb",
           "lastSyncedAt": "2026-10-06T17:55:18.613Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "49",
+      "title": "Group Anagrams",
+      "slug": "group-anagrams",
+      "problemName": "0049-group-anagrams",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/group-anagrams/",
+      "folderPath": "0049-group-anagrams/",
+      "readmePath": "0049-group-anagrams/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0049-group-anagrams.java",
+          "path": "0049-group-anagrams/0049-group-anagrams.java",
+          "sha": "cb54b077ea4f5894ccb2625b05632c2412c875d2",
+          "lastSyncedAt": "2026-10-06T17:56:18.646Z"
         }
       ]
     },
