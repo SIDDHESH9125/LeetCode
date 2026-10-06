@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-10-06T17:43:00.075Z",
+  "updatedAt": "2026-10-06T17:43:27.273Z",
   "problems": [
     {
       "frontendId": "2",
@@ -43,6 +43,26 @@
           "path": "0066-plus-one/0066-plus-one.java",
           "sha": "b339f375465f3e9b5862cab3cc64c94dcf6be283",
           "lastSyncedAt": "2026-10-06T17:42:34.088Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "189",
+      "title": "Rotate Array",
+      "slug": "rotate-array",
+      "problemName": "0189-rotate-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotate-array/",
+      "folderPath": "0189-rotate-array/",
+      "readmePath": "0189-rotate-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0189-rotate-array.java",
+          "path": "0189-rotate-array/0189-rotate-array.java",
+          "sha": "92ef31aaacdca058f873f62e80378fa877ce876f",
+          "lastSyncedAt": "2026-10-06T17:43:27.273Z"
         }
       ]
     },
