@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-06T17:53:27.307Z",
+  "updatedAt": "2026-10-06T17:53:40.653Z",
   "problems": [
     {
       "frontendId": "1",
@@ -83,6 +83,26 @@
           "path": "0066-plus-one/0066-plus-one.java",
           "sha": "b339f375465f3e9b5862cab3cc64c94dcf6be283",
           "lastSyncedAt": "2026-10-06T17:49:16.266Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "81",
+      "title": "Search in Rotated Sorted Array II",
+      "slug": "search-in-rotated-sorted-array-ii",
+      "problemName": "0081-search-in-rotated-sorted-array-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/search-in-rotated-sorted-array-ii/",
+      "folderPath": "0081-search-in-rotated-sorted-array-ii/",
+      "readmePath": "0081-search-in-rotated-sorted-array-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0081-search-in-rotated-sorted-array-ii.java",
+          "path": "0081-search-in-rotated-sorted-array-ii/0081-search-in-rotated-sorted-array-ii.java",
+          "sha": "04cfd4dbcdfaebbabce9cb4849f899269980d16b",
+          "lastSyncedAt": "2026-10-06T17:53:40.653Z"
         }
       ]
     },
