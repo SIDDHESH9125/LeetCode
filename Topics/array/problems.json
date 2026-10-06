@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-06T17:55:18.613Z",
+  "updatedAt": "2026-10-06T17:55:29.304Z",
   "problems": [
     {
       "frontendId": "1",
@@ -223,6 +223,26 @@
           "path": "0119-pascals-triangle-ii/0119-pascals-triangle-ii.java",
           "sha": "94f25cb429e838ece5398b98006c7e8468248f75",
           "lastSyncedAt": "2026-10-06T17:49:22.388Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "128",
+      "title": "Longest Consecutive Sequence",
+      "slug": "longest-consecutive-sequence",
+      "problemName": "0128-longest-consecutive-sequence",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-consecutive-sequence/",
+      "folderPath": "0128-longest-consecutive-sequence/",
+      "readmePath": "0128-longest-consecutive-sequence/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0128-longest-consecutive-sequence.java",
+          "path": "0128-longest-consecutive-sequence/0128-longest-consecutive-sequence.java",
+          "sha": "0c7aff846f1a5b72ce95fe055b9d49ed0514a40f",
+          "lastSyncedAt": "2026-10-06T17:55:29.304Z"
         }
       ]
     },
