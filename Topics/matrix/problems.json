@@ -4,8 +4,28 @@
     "slug": "matrix",
     "name": "Matrix"
   },
-  "updatedAt": "2026-10-06T17:51:11.137Z",
+  "updatedAt": "2026-10-06T17:55:18.613Z",
   "problems": [
+    {
+      "frontendId": "48",
+      "title": "Rotate Image",
+      "slug": "rotate-image",
+      "problemName": "0048-rotate-image",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotate-image/",
+      "folderPath": "0048-rotate-image/",
+      "readmePath": "0048-rotate-image/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0048-rotate-image.java",
+          "path": "0048-rotate-image/0048-rotate-image.java",
+          "sha": "3b6121559373f17e94c18db443cecb70358c97fb",
+          "lastSyncedAt": "2026-10-06T17:55:18.613Z"
+        }
+      ]
+    },
     {
       "frontendId": "1901",
       "title": "Find a Peak Element II",
