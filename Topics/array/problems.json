@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-06T17:55:39.179Z",
+  "updatedAt": "2026-10-06T17:55:46.355Z",
   "problems": [
     {
       "frontendId": "1",
@@ -143,6 +143,26 @@
           "path": "0066-plus-one/0066-plus-one.java",
           "sha": "b339f375465f3e9b5862cab3cc64c94dcf6be283",
           "lastSyncedAt": "2026-10-06T17:49:16.266Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "73",
+      "title": "Set Matrix Zeroes",
+      "slug": "set-matrix-zeroes",
+      "problemName": "0073-set-matrix-zeroes",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/set-matrix-zeroes/",
+      "folderPath": "0073-set-matrix-zeroes/",
+      "readmePath": "0073-set-matrix-zeroes/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0073-set-matrix-zeroes.java",
+          "path": "0073-set-matrix-zeroes/0073-set-matrix-zeroes.java",
+          "sha": "ff3a1ce2793971ea2f039daed38873472d60e3ce",
+          "lastSyncedAt": "2026-10-06T17:55:46.355Z"
         }
       ]
     },
