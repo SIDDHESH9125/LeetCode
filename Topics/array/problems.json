@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-06T17:52:35.133Z",
+  "updatedAt": "2026-10-06T17:52:43.850Z",
   "problems": [
     {
       "frontendId": "1",
@@ -203,6 +203,26 @@
           "path": "0485-max-consecutive-ones/0485-max-consecutive-ones.java",
           "sha": "c760b436943d4a5c11a39b8c23c44af5feac58ec",
           "lastSyncedAt": "2026-10-06T17:50:07.031Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1011",
+      "title": "Capacity To Ship Packages Within D Days",
+      "slug": "capacity-to-ship-packages-within-d-days",
+      "problemName": "1011-capacity-to-ship-packages-within-d-days",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/",
+      "folderPath": "1011-capacity-to-ship-packages-within-d-days/",
+      "readmePath": "1011-capacity-to-ship-packages-within-d-days/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1011-capacity-to-ship-packages-within-d-days.java",
+          "path": "1011-capacity-to-ship-packages-within-d-days/1011-capacity-to-ship-packages-within-d-days.java",
+          "sha": "5c06c3b3406da8dbcf4d8184b039b18c4e23dadd",
+          "lastSyncedAt": "2026-10-06T17:52:43.850Z"
         }
       ]
     },
