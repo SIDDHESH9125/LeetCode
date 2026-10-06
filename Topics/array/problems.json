@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-06T17:59:15.813Z",
+  "updatedAt": "2026-10-06T17:59:27.293Z",
   "problems": [
     {
       "frontendId": "1",
@@ -343,6 +343,26 @@
           "path": "0074-search-a-2d-matrix/0074-search-a-2d-matrix.java",
           "sha": "528eca975a6cebb8564c2a08ee7950c1b3c91551",
           "lastSyncedAt": "2026-10-06T17:57:09.539Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "75",
+      "title": "Sort Colors",
+      "slug": "sort-colors",
+      "problemName": "0075-sort-colors",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-colors/",
+      "folderPath": "0075-sort-colors/",
+      "readmePath": "0075-sort-colors/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0075-sort-colors.java",
+          "path": "0075-sort-colors/0075-sort-colors.java",
+          "sha": "3250c00e24a49f8488116d3c3f994d5edff50718",
+          "lastSyncedAt": "2026-10-06T17:59:27.293Z"
         }
       ]
     },
