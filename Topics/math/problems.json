@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-10-06T17:59:43.983Z",
+  "updatedAt": "2026-10-06T17:59:50.657Z",
   "problems": [
     {
       "frontendId": "2",
@@ -143,6 +143,26 @@
           "path": "1903-largest-odd-number-in-string/1903-largest-odd-number-in-string.java",
           "sha": "13d1ab2db7456ef791dbeb2fc694e0134b53c134",
           "lastSyncedAt": "2026-10-06T17:52:50.207Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2348",
+      "title": "Number of Zero-Filled Subarrays",
+      "slug": "number-of-zero-filled-subarrays",
+      "problemName": "2348-number-of-zero-filled-subarrays",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-zero-filled-subarrays/",
+      "folderPath": "2348-number-of-zero-filled-subarrays/",
+      "readmePath": "2348-number-of-zero-filled-subarrays/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2348-number-of-zero-filled-subarrays.java",
+          "path": "2348-number-of-zero-filled-subarrays/2348-number-of-zero-filled-subarrays.java",
+          "sha": "7ae3f0617b3a631ee10ea10fd3cee080cbd6418c",
+          "lastSyncedAt": "2026-10-06T17:59:50.657Z"
         }
       ]
     },
