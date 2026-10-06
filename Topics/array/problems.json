@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-06T17:58:10.619Z",
+  "updatedAt": "2026-10-06T17:58:17.855Z",
   "problems": [
     {
       "frontendId": "1",
@@ -623,6 +623,26 @@
           "path": "0875-koko-eating-bananas/0875-koko-eating-bananas.java",
           "sha": "59aacf42d854381b90e1bf38adde848b57f47564",
           "lastSyncedAt": "2026-10-06T17:53:06.200Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "896",
+      "title": "Monotonic Array",
+      "slug": "monotonic-array",
+      "problemName": "0896-monotonic-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/monotonic-array/",
+      "folderPath": "0896-monotonic-array/",
+      "readmePath": "0896-monotonic-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0896-monotonic-array.java",
+          "path": "0896-monotonic-array/0896-monotonic-array.java",
+          "sha": "181b6d04519364a3db285643e7b327c1308810d2",
+          "lastSyncedAt": "2026-10-06T17:58:17.855Z"
         }
       ]
     },
