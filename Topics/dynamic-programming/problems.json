@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-10-06T17:54:59.898Z",
+  "updatedAt": "2026-10-06T17:57:32.861Z",
   "problems": [
     {
       "frontendId": "5",
@@ -23,6 +23,26 @@
           "path": "0005-longest-palindromic-substring/0005-longest-palindromic-substring.java",
           "sha": "198aa74bc1917ca138361fbc9b0519f3a6cdcffb",
           "lastSyncedAt": "2026-10-06T17:50:51.059Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "42",
+      "title": "Trapping Rain Water",
+      "slug": "trapping-rain-water",
+      "problemName": "0042-trapping-rain-water",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/trapping-rain-water/",
+      "folderPath": "0042-trapping-rain-water/",
+      "readmePath": "0042-trapping-rain-water/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0042-trapping-rain-water.java",
+          "path": "0042-trapping-rain-water/0042-trapping-rain-water.java",
+          "sha": "720d8dc4bf8de10029b618036df55770b8c2700c",
+          "lastSyncedAt": "2026-10-06T17:57:32.861Z"
         }
       ]
     },
