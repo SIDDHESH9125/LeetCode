@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-06T17:56:18.646Z",
+  "updatedAt": "2026-10-06T17:57:09.539Z",
   "problems": [
     {
       "frontendId": "1",
@@ -203,6 +203,26 @@
           "path": "0073-set-matrix-zeroes/0073-set-matrix-zeroes.java",
           "sha": "ff3a1ce2793971ea2f039daed38873472d60e3ce",
           "lastSyncedAt": "2026-10-06T17:55:46.355Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "74",
+      "title": "Search a 2D Matrix",
+      "slug": "search-a-2d-matrix",
+      "problemName": "0074-search-a-2d-matrix",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/search-a-2d-matrix/",
+      "folderPath": "0074-search-a-2d-matrix/",
+      "readmePath": "0074-search-a-2d-matrix/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0074-search-a-2d-matrix.java",
+          "path": "0074-search-a-2d-matrix/0074-search-a-2d-matrix.java",
+          "sha": "528eca975a6cebb8564c2a08ee7950c1b3c91551",
+          "lastSyncedAt": "2026-10-06T17:57:09.539Z"
         }
       ]
     },
