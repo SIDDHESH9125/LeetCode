@@ -4,7 +4,7 @@
     "slug": "recursion",
     "name": "Recursion"
   },
-  "updatedAt": "2026-10-03T13:14:57.254Z",
+  "updatedAt": "2026-10-06T17:42:25.832Z",
   "problems": [
     {
       "frontendId": "2",
@@ -22,7 +22,7 @@
           "filename": "0002-add-two-numbers.java",
           "path": "0002-add-two-numbers/0002-add-two-numbers.java",
           "sha": "79c8c95ea5fa1cace5b3fdff3005ecb233954263",
-          "lastSyncedAt": "2026-10-03T13:14:57.254Z"
+          "lastSyncedAt": "2026-10-06T17:42:25.832Z"
         }
       ]
     }
