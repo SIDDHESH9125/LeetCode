@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-06T17:50:07.031Z",
+  "updatedAt": "2026-10-06T17:51:11.137Z",
   "problems": [
     {
       "frontendId": "1",
@@ -183,6 +183,26 @@
           "path": "0485-max-consecutive-ones/0485-max-consecutive-ones.java",
           "sha": "c760b436943d4a5c11a39b8c23c44af5feac58ec",
           "lastSyncedAt": "2026-10-06T17:50:07.031Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1901",
+      "title": "Find a Peak Element II",
+      "slug": "find-a-peak-element-ii",
+      "problemName": "1901-find-a-peak-element-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-a-peak-element-ii/",
+      "folderPath": "1901-find-a-peak-element-ii/",
+      "readmePath": "1901-find-a-peak-element-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1901-find-a-peak-element-ii.java",
+          "path": "1901-find-a-peak-element-ii/1901-find-a-peak-element-ii.java",
+          "sha": "c02e385f702f1b6c6831e73333c27e1b6de5de44",
+          "lastSyncedAt": "2026-10-06T17:51:11.137Z"
         }
       ]
     },
