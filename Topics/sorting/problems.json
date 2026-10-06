@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-10-06T17:56:32.783Z",
+  "updatedAt": "2026-10-06T17:58:23.850Z",
   "problems": [
     {
       "frontendId": "49",
@@ -23,6 +23,26 @@
           "path": "0049-group-anagrams/0049-group-anagrams.java",
           "sha": "cb54b077ea4f5894ccb2625b05632c2412c875d2",
           "lastSyncedAt": "2026-10-06T17:56:18.646Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "56",
+      "title": "Merge Intervals",
+      "slug": "merge-intervals",
+      "problemName": "0056-merge-intervals",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-intervals/",
+      "folderPath": "0056-merge-intervals/",
+      "readmePath": "0056-merge-intervals/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0056-merge-intervals.java",
+          "path": "0056-merge-intervals/0056-merge-intervals.java",
+          "sha": "f79e30eb498819c69dfc063e8d70df25294d6fb9",
+          "lastSyncedAt": "2026-10-06T17:58:23.850Z"
         }
       ]
     },
