@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-10-06T17:49:33.766Z",
+  "updatedAt": "2026-10-06T17:49:54.404Z",
   "problems": [
     {
       "frontendId": "19",
@@ -42,7 +42,7 @@
           "filename": "0026-remove-duplicates-from-sorted-array.java",
           "path": "0026-remove-duplicates-from-sorted-array/0026-remove-duplicates-from-sorted-array.java",
           "sha": "0623c73861a669bdfc3722274bb8856ef9a8f97b",
-          "lastSyncedAt": "2026-10-06T17:43:20.399Z"
+          "lastSyncedAt": "2026-10-06T17:49:54.404Z"
         }
       ]
     },
