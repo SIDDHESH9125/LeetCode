@@ -4,7 +4,7 @@
     "slug": "matrix",
     "name": "Matrix"
   },
-  "updatedAt": "2026-10-06T17:57:22.279Z",
+  "updatedAt": "2026-10-06T17:57:53.521Z",
   "problems": [
     {
       "frontendId": "48",
@@ -83,6 +83,26 @@
           "path": "0074-search-a-2d-matrix/0074-search-a-2d-matrix.java",
           "sha": "528eca975a6cebb8564c2a08ee7950c1b3c91551",
           "lastSyncedAt": "2026-10-06T17:57:09.539Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "240",
+      "title": "Search a 2D Matrix II",
+      "slug": "search-a-2d-matrix-ii",
+      "problemName": "0240-search-a-2d-matrix-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/search-a-2d-matrix-ii/",
+      "folderPath": "0240-search-a-2d-matrix-ii/",
+      "readmePath": "0240-search-a-2d-matrix-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0240-search-a-2d-matrix-ii.java",
+          "path": "0240-search-a-2d-matrix-ii/0240-search-a-2d-matrix-ii.java",
+          "sha": "9d673c265e4ee3d8a2353542becc9af7aa35a043",
+          "lastSyncedAt": "2026-10-06T17:57:53.521Z"
         }
       ]
     },
