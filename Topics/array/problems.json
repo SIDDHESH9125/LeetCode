@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-06T17:43:27.273Z",
+  "updatedAt": "2026-10-06T17:43:38.046Z",
   "problems": [
     {
       "frontendId": "1",
@@ -163,6 +163,26 @@
           "path": "0268-missing-number/0268-missing-number.java",
           "sha": "31d95e1ede9214b7a823cc8e95e807c7de02763d",
           "lastSyncedAt": "2026-10-06T17:43:00.075Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "485",
+      "title": "Max Consecutive Ones",
+      "slug": "max-consecutive-ones",
+      "problemName": "0485-max-consecutive-ones",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/max-consecutive-ones/",
+      "folderPath": "0485-max-consecutive-ones/",
+      "readmePath": "0485-max-consecutive-ones/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0485-max-consecutive-ones.java",
+          "path": "0485-max-consecutive-ones/0485-max-consecutive-ones.java",
+          "sha": "c760b436943d4a5c11a39b8c23c44af5feac58ec",
+          "lastSyncedAt": "2026-10-06T17:43:38.046Z"
         }
       ]
     },
