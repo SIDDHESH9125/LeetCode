@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-06T17:49:16.266Z",
+  "updatedAt": "2026-10-06T17:49:22.388Z",
   "problems": [
     {
       "frontendId": "1",
@@ -122,7 +122,7 @@
           "filename": "0119-pascals-triangle-ii.java",
           "path": "0119-pascals-triangle-ii/0119-pascals-triangle-ii.java",
           "sha": "94f25cb429e838ece5398b98006c7e8468248f75",
-          "lastSyncedAt": "2026-10-06T17:42:40.251Z"
+          "lastSyncedAt": "2026-10-06T17:49:22.388Z"
         }
       ]
     },
