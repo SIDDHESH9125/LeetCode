@@ -4,8 +4,28 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-10-06T17:58:23.850Z",
+  "updatedAt": "2026-10-06T17:59:08.280Z",
   "problems": [
+    {
+      "frontendId": "18",
+      "title": "4Sum",
+      "slug": "4sum",
+      "problemName": "0018-4sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/4sum/",
+      "folderPath": "0018-4sum/",
+      "readmePath": "0018-4sum/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0018-4sum.java",
+          "path": "0018-4sum/0018-4sum.java",
+          "sha": "99886d2409e48d022df63f2a8354035bbba7567d",
+          "lastSyncedAt": "2026-10-06T17:59:08.280Z"
+        }
+      ]
+    },
     {
       "frontendId": "49",
       "title": "Group Anagrams",
