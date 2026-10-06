@@ -4,8 +4,28 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-10-06T17:50:22.304Z",
+  "updatedAt": "2026-10-06T17:50:34.536Z",
   "problems": [
+    {
+      "frontendId": "8",
+      "title": "String to Integer (atoi)",
+      "slug": "string-to-integer-atoi",
+      "problemName": "0008-string-to-integer-atoi",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/string-to-integer-atoi/",
+      "folderPath": "0008-string-to-integer-atoi/",
+      "readmePath": "0008-string-to-integer-atoi/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0008-string-to-integer-atoi.java",
+          "path": "0008-string-to-integer-atoi/0008-string-to-integer-atoi.java",
+          "sha": "35a09f5c314498c3b931b2fa4232e1617b60f238",
+          "lastSyncedAt": "2026-10-06T17:50:34.536Z"
+        }
+      ]
+    },
     {
       "frontendId": "1021",
       "title": "Remove Outermost Parentheses",
