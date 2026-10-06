@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-10-06T17:56:44.075Z",
+  "updatedAt": "2026-10-06T17:56:53.347Z",
   "problems": [
     {
       "frontendId": "5",
@@ -123,6 +123,26 @@
           "path": "0443-string-compression/0443-string-compression.java",
           "sha": "dda4306fec30d712110adad0bcc3f7ddabc77715",
           "lastSyncedAt": "2026-10-06T17:56:44.075Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "567",
+      "title": "Permutation in String",
+      "slug": "permutation-in-string",
+      "problemName": "0567-permutation-in-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/permutation-in-string/",
+      "folderPath": "0567-permutation-in-string/",
+      "readmePath": "0567-permutation-in-string/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0567-permutation-in-string.java",
+          "path": "0567-permutation-in-string/0567-permutation-in-string.java",
+          "sha": "c4cdcaadb29bad48d94868d0a9a019f086aa0051",
+          "lastSyncedAt": "2026-10-06T17:56:53.347Z"
         }
       ]
     },
