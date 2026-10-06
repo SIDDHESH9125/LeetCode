@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-06T17:59:27.293Z",
+  "updatedAt": "2026-10-06T17:59:50.657Z",
   "problems": [
     {
       "frontendId": "1",
@@ -863,6 +863,26 @@
           "path": "2149-rearrange-array-elements-by-sign/2149-rearrange-array-elements-by-sign.java",
           "sha": "5d9bfbf9847d4e1ca7a89eb8dc035819d66ec284",
           "lastSyncedAt": "2026-10-06T17:49:33.766Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2348",
+      "title": "Number of Zero-Filled Subarrays",
+      "slug": "number-of-zero-filled-subarrays",
+      "problemName": "2348-number-of-zero-filled-subarrays",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-zero-filled-subarrays/",
+      "folderPath": "2348-number-of-zero-filled-subarrays/",
+      "readmePath": "2348-number-of-zero-filled-subarrays/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2348-number-of-zero-filled-subarrays.java",
+          "path": "2348-number-of-zero-filled-subarrays/2348-number-of-zero-filled-subarrays.java",
+          "sha": "7ae3f0617b3a631ee10ea10fd3cee080cbd6418c",
+          "lastSyncedAt": "2026-10-06T17:59:50.657Z"
         }
       ]
     },
