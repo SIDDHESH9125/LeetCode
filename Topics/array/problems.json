@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-06T17:54:13.142Z",
+  "updatedAt": "2026-10-06T17:54:44.473Z",
   "problems": [
     {
       "frontendId": "1",
@@ -243,6 +243,26 @@
           "path": "0189-rotate-array/0189-rotate-array.java",
           "sha": "92ef31aaacdca058f873f62e80378fa877ce876f",
           "lastSyncedAt": "2026-10-06T17:50:00.909Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "229",
+      "title": "Majority Element II",
+      "slug": "majority-element-ii",
+      "problemName": "0229-majority-element-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/majority-element-ii/",
+      "folderPath": "0229-majority-element-ii/",
+      "readmePath": "0229-majority-element-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0229-majority-element-ii.java",
+          "path": "0229-majority-element-ii/0229-majority-element-ii.java",
+          "sha": "d1a01c3522485abdb741735121290dfa7b2f901a",
+          "lastSyncedAt": "2026-10-06T17:54:44.473Z"
         }
       ]
     },
