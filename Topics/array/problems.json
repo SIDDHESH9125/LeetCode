@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-06T17:57:53.521Z",
+  "updatedAt": "2026-10-06T17:58:10.619Z",
   "problems": [
     {
       "frontendId": "1",
@@ -83,6 +83,26 @@
           "path": "0026-remove-duplicates-from-sorted-array/0026-remove-duplicates-from-sorted-array.java",
           "sha": "0623c73861a669bdfc3722274bb8856ef9a8f97b",
           "lastSyncedAt": "2026-10-06T17:49:54.404Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "31",
+      "title": "Next Permutation",
+      "slug": "next-permutation",
+      "problemName": "0031-next-permutation",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/next-permutation/",
+      "folderPath": "0031-next-permutation/",
+      "readmePath": "0031-next-permutation/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0031-next-permutation.java",
+          "path": "0031-next-permutation/0031-next-permutation.java",
+          "sha": "11d88ddba160196725d4bf8b7ca19708759ce38c",
+          "lastSyncedAt": "2026-10-06T17:58:10.619Z"
         }
       ]
     },
