@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "simulation",
+    "name": "Simulation"
+  },
+  "updatedAt": "2026-10-06T17:42:50.055Z",
+  "problems": [
+    {
+      "frontendId": "2149",
+      "title": "Rearrange Array Elements by Sign",
+      "slug": "rearrange-array-elements-by-sign",
+      "problemName": "2149-rearrange-array-elements-by-sign",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rearrange-array-elements-by-sign/",
+      "folderPath": "2149-rearrange-array-elements-by-sign/",
+      "readmePath": "2149-rearrange-array-elements-by-sign/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2149-rearrange-array-elements-by-sign.java",
+          "path": "2149-rearrange-array-elements-by-sign/2149-rearrange-array-elements-by-sign.java",
+          "sha": "5d9bfbf9847d4e1ca7a89eb8dc035819d66ec284",
+          "lastSyncedAt": "2026-10-06T17:42:50.055Z"
+        }
+      ]
+    }
+  ]
+}
