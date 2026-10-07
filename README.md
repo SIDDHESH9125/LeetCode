@@ -5,52 +5,87 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 6 | 3 | 3 | 0 |
+| 46 | 10 | 33 | 3 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 4 days | 5 |
+| 1 days | 14 days | 35 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-30 | 1 |
-| 2026-10-01 | 1 |
-| 2026-10-02 | 2 |
-| 2026-10-03 | 1 |
-| 2026-10-06 | 1 |
+| 2026-09-13 | 1 |
+| 2026-09-14 | 1 |
+| 2026-09-15 | 3 |
+| 2026-09-16 | 1 |
+| 2026-09-17 | 2 |
+| 2026-09-18 | 1 |
+| 2026-09-19 | 1 |
+| 2026-09-21 | 2 |
+| 2026-09-22 | 1 |
+| 2026-09-23 | 1 |
+| 2026-09-24 | 1 |
+| 2026-09-25 | 1 |
+| 2026-09-26 | 2 |
+| 2026-10-07 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 3 | 50% |
-| Linked List | 3 | 50% |
-| Dynamic Programming | 2 | 33% |
-| Math | 2 | 33% |
-| Recursion | 1 | 17% |
-| Two Pointers | 1 | 17% |
+| Array | 35 | 76% |
+| Binary Search | 16 | 35% |
+| String | 11 | 24% |
+| Two Pointers | 11 | 24% |
+| Hash Table | 8 | 17% |
+| Sorting | 8 | 17% |
+| Matrix | 6 | 13% |
+| Math | 5 | 11% |
+| Dynamic Programming | 4 | 9% |
+| Stack | 3 | 7% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 4 |
+| [Array](Topics/array/) | 45 |
 | [Backtracking](Topics/backtracking/) | 0 |
-| [Binary Search](Topics/binary-search/) | 0 |
+| [Binary Indexed Tree](Topics/binary-indexed-tree/) | 1 |
+| [Binary Search](Topics/binary-search/) | 18 |
 | [Binary Tree](Topics/binary-tree/) | 0 |
-| [Bit Manipulation](Topics/bit-manipulation/) | 0 |
+| [Bit Manipulation](Topics/bit-manipulation/) | 2 |
+| [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
+| [Bracket Sequences](Topics/bracket-sequences/) | 2 |
+| [Bubble Sort](Topics/bubble-sort/) | 1 |
+| [Counting](Topics/counting/) | 2 |
 | [Data Structures](Topics/data-structures/) | 0 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 2 |
+| [Divide and Conquer](Topics/divide-and-conquer/) | 3 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 6 |
+| [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
 | [Graph](Topics/graph/) | 0 |
-| [Hash Table](Topics/hash-table/) | 0 |
+| [Greedy](Topics/greedy/) | 2 |
+| [Hash Table](Topics/hash-table/) | 10 |
 | [Heap](Topics/heap/) | 0 |
-| [Linked List](Topics/linked-list/) | 3 |
-| [Math](Topics/math/) | 2 |
-| [Matrix](Topics/matrix/) | 0 |
-| [Recursion](Topics/recursion/) | 1 |
-| [Sorting](Topics/sorting/) | 0 |
-| [Stack](Topics/stack/) | 0 |
-| [Two Pointers](Topics/two-pointers/) | 1 |
+| [Linked List](Topics/linked-list/) | 4 |
+| [Manacher](Topics/manacher/) | 1 |
+| [Math](Topics/math/) | 9 |
+| [Matrix](Topics/matrix/) | 6 |
+| [Merge Sort](Topics/merge-sort/) | 1 |
+| [Monotonic Stack](Topics/monotonic-stack/) | 1 |
+| [Ordered Set](Topics/ordered-set/) | 1 |
+| [Pigeonhole Principle](Topics/pigeonhole-principle/) | 1 |
+| [Prefix Sum](Topics/prefix-sum/) | 2 |
+| [Quicksort](Topics/quicksort/) | 2 |
+| [Recursion](Topics/recursion/) | 2 |
+| [Segment Tree](Topics/segment-tree/) | 1 |
+| [Simulation](Topics/simulation/) | 3 |
+| [Sliding Window](Topics/sliding-window/) | 1 |
+| [Sorting](Topics/sorting/) | 9 |
+| [Stack](Topics/stack/) | 4 |
+| [String](Topics/string/) | 12 |
+| [Treap](Topics/treap/) | 1 |
+| [Trie](Topics/trie/) | 1 |
+| [Two Pointers](Topics/two-pointers/) | 15 |
+| [Union-Find](Topics/union-find/) | 1 |
 <!---LeetHub Summary End-->
