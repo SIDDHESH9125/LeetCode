@@ -5,7 +5,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 47 | 10 | 34 | 3 |
+| 48 | 11 | 34 | 3 |
 
 ## Activity
 
@@ -28,22 +28,22 @@
 | 2026-09-25 | 1 |
 | 2026-09-26 | 2 |
 | 2026-10-07 | 1 |
-| 2026-10-09 | 1 |
+| 2026-10-09 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 35 | 74% |
-| Binary Search | 16 | 34% |
+| Array | 35 | 73% |
+| Binary Search | 16 | 33% |
+| Two Pointers | 12 | 25% |
 | String | 11 | 23% |
-| Two Pointers | 11 | 23% |
 | Hash Table | 8 | 17% |
 | Sorting | 8 | 17% |
 | Matrix | 6 | 13% |
-| Math | 5 | 11% |
-| Dynamic Programming | 4 | 9% |
-| Stack | 3 | 6% |
+| Math | 5 | 10% |
+| Dynamic Programming | 4 | 8% |
+| Stack | 4 | 8% |
 
 ## Topics
 
@@ -67,7 +67,7 @@
 | [Greedy](Topics/greedy/) | 2 |
 | [Hash Table](Topics/hash-table/) | 10 |
 | [Heap](Topics/heap/) | 0 |
-| [Linked List](Topics/linked-list/) | 5 |
+| [Linked List](Topics/linked-list/) | 6 |
 | [Manacher](Topics/manacher/) | 1 |
 | [Math](Topics/math/) | 9 |
 | [Matrix](Topics/matrix/) | 6 |
@@ -77,15 +77,15 @@
 | [Pigeonhole Principle](Topics/pigeonhole-principle/) | 1 |
 | [Prefix Sum](Topics/prefix-sum/) | 2 |
 | [Quicksort](Topics/quicksort/) | 2 |
-| [Recursion](Topics/recursion/) | 2 |
+| [Recursion](Topics/recursion/) | 3 |
 | [Segment Tree](Topics/segment-tree/) | 1 |
 | [Simulation](Topics/simulation/) | 3 |
 | [Sliding Window](Topics/sliding-window/) | 1 |
 | [Sorting](Topics/sorting/) | 9 |
-| [Stack](Topics/stack/) | 4 |
+| [Stack](Topics/stack/) | 5 |
 | [String](Topics/string/) | 12 |
 | [Treap](Topics/treap/) | 1 |
 | [Trie](Topics/trie/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 15 |
+| [Two Pointers](Topics/two-pointers/) | 16 |
 | [Union-Find](Topics/union-find/) | 1 |
 <!---LeetHub Summary End-->
