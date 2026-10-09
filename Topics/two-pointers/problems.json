@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "two-pointers",
-    "name": "Two Pointers"
+    "name": "Two Pointers",
+    "tagId": "9"
   },
-  "updatedAt": "2026-10-07T17:01:44.640Z",
+  "updatedAt": "2026-10-09T17:32:31.325Z",
   "problems": [
     {
       "frontendId": "5",
@@ -203,6 +204,26 @@
           "path": "0189-rotate-array/0189-rotate-array.java",
           "sha": "92ef31aaacdca058f873f62e80378fa877ce876f",
           "lastSyncedAt": "2026-10-06T17:50:00.909Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "234",
+      "title": "Palindrome Linked List",
+      "slug": "palindrome-linked-list",
+      "problemName": "0234-palindrome-linked-list",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/palindrome-linked-list/",
+      "folderPath": "0234-palindrome-linked-list/",
+      "readmePath": "0234-palindrome-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0234-palindrome-linked-list.java",
+          "path": "0234-palindrome-linked-list/0234-palindrome-linked-list.java",
+          "sha": "cda12b29f38b81ed0c10e26f622b22036b19c9a6",
+          "lastSyncedAt": "2026-10-09T17:32:31.325Z"
         }
       ]
     },
