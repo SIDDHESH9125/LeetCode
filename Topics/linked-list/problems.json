@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "linked-list",
-    "name": "Linked List"
+    "name": "Linked List",
+    "tagId": "7"
   },
-  "updatedAt": "2026-10-07T17:01:44.640Z",
+  "updatedAt": "2026-10-09T16:49:24.845Z",
   "problems": [
     {
       "frontendId": "2",
@@ -63,6 +64,26 @@
           "path": "0237-delete-node-in-a-linked-list/0237-delete-node-in-a-linked-list.java",
           "sha": "4f32f4c656146d0f790c40251fcd91c11bdb9713",
           "lastSyncedAt": "2026-10-06T17:49:12.007Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "328",
+      "title": "Odd Even Linked List",
+      "slug": "odd-even-linked-list",
+      "problemName": "0328-odd-even-linked-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/odd-even-linked-list/",
+      "folderPath": "0328-odd-even-linked-list/",
+      "readmePath": "0328-odd-even-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0328-odd-even-linked-list.java",
+          "path": "0328-odd-even-linked-list/0328-odd-even-linked-list.java",
+          "sha": "f826e734c63e762f19efc5ac7d3c3dd196c46c84",
+          "lastSyncedAt": "2026-10-09T16:49:24.845Z"
         }
       ]
     },
