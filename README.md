@@ -5,17 +5,16 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 46 | 10 | 33 | 3 |
+| 47 | 10 | 34 | 3 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 14 days | 35 |
+| 1 days | 14 days | 36 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-13 | 1 |
 | 2026-09-14 | 1 |
 | 2026-09-15 | 3 |
 | 2026-09-16 | 1 |
@@ -29,21 +28,22 @@
 | 2026-09-25 | 1 |
 | 2026-09-26 | 2 |
 | 2026-10-07 | 1 |
+| 2026-10-09 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 35 | 76% |
-| Binary Search | 16 | 35% |
-| String | 11 | 24% |
-| Two Pointers | 11 | 24% |
+| Array | 35 | 74% |
+| Binary Search | 16 | 34% |
+| String | 11 | 23% |
+| Two Pointers | 11 | 23% |
 | Hash Table | 8 | 17% |
 | Sorting | 8 | 17% |
 | Matrix | 6 | 13% |
 | Math | 5 | 11% |
 | Dynamic Programming | 4 | 9% |
-| Stack | 3 | 7% |
+| Stack | 3 | 6% |
 
 ## Topics
 
@@ -67,7 +67,7 @@
 | [Greedy](Topics/greedy/) | 2 |
 | [Hash Table](Topics/hash-table/) | 10 |
 | [Heap](Topics/heap/) | 0 |
-| [Linked List](Topics/linked-list/) | 4 |
+| [Linked List](Topics/linked-list/) | 5 |
 | [Manacher](Topics/manacher/) | 1 |
 | [Math](Topics/math/) | 9 |
 | [Matrix](Topics/matrix/) | 6 |
