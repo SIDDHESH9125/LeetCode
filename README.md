@@ -5,7 +5,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 49 | 12 | 34 | 3 |
+| 50 | 12 | 35 | 3 |
 
 ## Activity
 
@@ -28,22 +28,22 @@
 | 2026-09-26 | 2 |
 | 2026-10-07 | 1 |
 | 2026-10-09 | 2 |
-| 2026-10-10 | 1 |
+| 2026-10-10 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 35 | 71% |
-| Binary Search | 16 | 33% |
-| Two Pointers | 13 | 27% |
+| Array | 35 | 70% |
+| Binary Search | 16 | 32% |
+| Two Pointers | 14 | 28% |
 | String | 11 | 22% |
-| Hash Table | 9 | 18% |
+| Hash Table | 10 | 20% |
 | Sorting | 8 | 16% |
 | Matrix | 6 | 12% |
+| Linked List | 5 | 10% |
 | Math | 5 | 10% |
 | Dynamic Programming | 4 | 8% |
-| Linked List | 4 | 8% |
 
 ## Topics
 
@@ -62,12 +62,12 @@
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 3 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 6 |
-| [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 2 |
+| [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 3 |
 | [Graph](Topics/graph/) | 0 |
 | [Greedy](Topics/greedy/) | 2 |
-| [Hash Table](Topics/hash-table/) | 11 |
+| [Hash Table](Topics/hash-table/) | 12 |
 | [Heap](Topics/heap/) | 0 |
-| [Linked List](Topics/linked-list/) | 7 |
+| [Linked List](Topics/linked-list/) | 8 |
 | [Manacher](Topics/manacher/) | 1 |
 | [Math](Topics/math/) | 9 |
 | [Matrix](Topics/matrix/) | 6 |
@@ -86,6 +86,6 @@
 | [String](Topics/string/) | 12 |
 | [Treap](Topics/treap/) | 1 |
 | [Trie](Topics/trie/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 17 |
+| [Two Pointers](Topics/two-pointers/) | 18 |
 | [Union-Find](Topics/union-find/) | 1 |
 <!---LeetHub Summary End-->
