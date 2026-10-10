@@ -5,17 +5,16 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 48 | 11 | 34 | 3 |
+| 49 | 12 | 34 | 3 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 14 days | 36 |
+| 2 days | 14 days | 37 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-14 | 1 |
 | 2026-09-15 | 3 |
 | 2026-09-16 | 1 |
 | 2026-09-17 | 2 |
@@ -29,21 +28,22 @@
 | 2026-09-26 | 2 |
 | 2026-10-07 | 1 |
 | 2026-10-09 | 2 |
+| 2026-10-10 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 35 | 73% |
+| Array | 35 | 71% |
 | Binary Search | 16 | 33% |
-| Two Pointers | 12 | 25% |
-| String | 11 | 23% |
-| Hash Table | 8 | 17% |
-| Sorting | 8 | 17% |
-| Matrix | 6 | 13% |
+| Two Pointers | 13 | 27% |
+| String | 11 | 22% |
+| Hash Table | 9 | 18% |
+| Sorting | 8 | 16% |
+| Matrix | 6 | 12% |
 | Math | 5 | 10% |
 | Dynamic Programming | 4 | 8% |
-| Stack | 4 | 8% |
+| Linked List | 4 | 8% |
 
 ## Topics
 
@@ -62,12 +62,12 @@
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 3 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 6 |
-| [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
+| [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 2 |
 | [Graph](Topics/graph/) | 0 |
 | [Greedy](Topics/greedy/) | 2 |
-| [Hash Table](Topics/hash-table/) | 10 |
+| [Hash Table](Topics/hash-table/) | 11 |
 | [Heap](Topics/heap/) | 0 |
-| [Linked List](Topics/linked-list/) | 6 |
+| [Linked List](Topics/linked-list/) | 7 |
 | [Manacher](Topics/manacher/) | 1 |
 | [Math](Topics/math/) | 9 |
 | [Matrix](Topics/matrix/) | 6 |
@@ -86,6 +86,6 @@
 | [String](Topics/string/) | 12 |
 | [Treap](Topics/treap/) | 1 |
 | [Trie](Topics/trie/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 16 |
+| [Two Pointers](Topics/two-pointers/) | 17 |
 | [Union-Find](Topics/union-find/) | 1 |
 <!---LeetHub Summary End-->
