@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-10-10T10:17:00.323Z",
+  "updatedAt": "2026-10-12T16:59:50.458Z",
   "problems": [
     {
       "frontendId": "2",
@@ -44,6 +44,26 @@
           "path": "0019-remove-nth-node-from-end-of-list/0019-remove-nth-node-from-end-of-list.java",
           "sha": "8737e816c4c495f62c7ce11d4f2d99f93596e5df",
           "lastSyncedAt": "2026-10-06T17:48:41.868Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "61",
+      "title": "Rotate List",
+      "slug": "rotate-list",
+      "problemName": "0061-rotate-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotate-list/",
+      "folderPath": "0061-rotate-list/",
+      "readmePath": "0061-rotate-list/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0061-rotate-list.java",
+          "path": "0061-rotate-list/0061-rotate-list.java",
+          "sha": "c7115d59f352082562e1bdea6ac06e5fdda39331",
+          "lastSyncedAt": "2026-10-12T16:59:50.458Z"
         }
       ]
     },
