@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "divide-and-conquer",
-    "name": "Divide and Conquer"
+    "name": "Divide and Conquer",
+    "tagId": "12"
   },
-  "updatedAt": "2026-10-06T17:57:53.521Z",
+  "updatedAt": "2026-10-13T17:13:17.179Z",
   "problems": [
     {
       "frontendId": "4",
@@ -23,6 +24,26 @@
           "path": "0004-median-of-two-sorted-arrays/0004-median-of-two-sorted-arrays.java",
           "sha": "34ca1a4e3b07ab130065db15aade4f24087dbb1a",
           "lastSyncedAt": "2026-10-06T17:48:55.950Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "148",
+      "title": "Sort List",
+      "slug": "sort-list",
+      "problemName": "0148-sort-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-list/",
+      "folderPath": "0148-sort-list/",
+      "readmePath": "0148-sort-list/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0148-sort-list.java",
+          "path": "0148-sort-list/0148-sort-list.java",
+          "sha": "56c04cfe8fbc11fa0e9fdc2f614b8b8c1c8885d2",
+          "lastSyncedAt": "2026-10-13T17:13:17.179Z"
         }
       ]
     },
