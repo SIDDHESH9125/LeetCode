@@ -5,7 +5,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 52 | 13 | 36 | 3 |
+| 53 | 13 | 37 | 3 |
 
 ## Activity
 
@@ -28,21 +28,21 @@
 | 2026-10-09 | 2 |
 | 2026-10-10 | 2 |
 | 2026-10-12 | 1 |
-| 2026-10-13 | 1 |
+| 2026-10-13 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 35 | 67% |
-| Binary Search | 16 | 31% |
-| Two Pointers | 15 | 29% |
+| Array | 35 | 66% |
+| Binary Search | 16 | 30% |
+| Two Pointers | 16 | 30% |
 | String | 11 | 21% |
 | Hash Table | 10 | 19% |
-| Sorting | 8 | 15% |
-| Linked List | 7 | 13% |
-| Matrix | 6 | 12% |
-| Math | 5 | 10% |
+| Sorting | 9 | 17% |
+| Linked List | 8 | 15% |
+| Matrix | 6 | 11% |
+| Math | 5 | 9% |
 | Dynamic Programming | 4 | 8% |
 
 ## Topics
@@ -60,18 +60,18 @@
 | [Bubble Sort](Topics/bubble-sort/) | 1 |
 | [Counting](Topics/counting/) | 2 |
 | [Data Structures](Topics/data-structures/) | 0 |
-| [Divide and Conquer](Topics/divide-and-conquer/) | 3 |
+| [Divide and Conquer](Topics/divide-and-conquer/) | 4 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 6 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 3 |
 | [Graph](Topics/graph/) | 0 |
 | [Greedy](Topics/greedy/) | 2 |
 | [Hash Table](Topics/hash-table/) | 12 |
 | [Heap](Topics/heap/) | 0 |
-| [Linked List](Topics/linked-list/) | 10 |
+| [Linked List](Topics/linked-list/) | 11 |
 | [Manacher](Topics/manacher/) | 1 |
 | [Math](Topics/math/) | 9 |
 | [Matrix](Topics/matrix/) | 6 |
-| [Merge Sort](Topics/merge-sort/) | 1 |
+| [Merge Sort](Topics/merge-sort/) | 2 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
 | [Ordered Set](Topics/ordered-set/) | 1 |
 | [Pigeonhole Principle](Topics/pigeonhole-principle/) | 1 |
@@ -81,11 +81,11 @@
 | [Segment Tree](Topics/segment-tree/) | 1 |
 | [Simulation](Topics/simulation/) | 3 |
 | [Sliding Window](Topics/sliding-window/) | 1 |
-| [Sorting](Topics/sorting/) | 9 |
+| [Sorting](Topics/sorting/) | 10 |
 | [Stack](Topics/stack/) | 5 |
 | [String](Topics/string/) | 12 |
 | [Treap](Topics/treap/) | 1 |
 | [Trie](Topics/trie/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 19 |
+| [Two Pointers](Topics/two-pointers/) | 20 |
 | [Union-Find](Topics/union-find/) | 1 |
 <!---LeetHub Summary End-->
