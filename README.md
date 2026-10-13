@@ -5,17 +5,16 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 51 | 12 | 36 | 3 |
+| 52 | 13 | 36 | 3 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 14 days | 38 |
+| 2 days | 14 days | 39 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-16 | 1 |
 | 2026-09-17 | 2 |
 | 2026-09-18 | 1 |
 | 2026-09-19 | 1 |
@@ -29,18 +28,19 @@
 | 2026-10-09 | 2 |
 | 2026-10-10 | 2 |
 | 2026-10-12 | 1 |
+| 2026-10-13 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 35 | 69% |
+| Array | 35 | 67% |
 | Binary Search | 16 | 31% |
 | Two Pointers | 15 | 29% |
-| String | 11 | 22% |
-| Hash Table | 10 | 20% |
-| Sorting | 8 | 16% |
-| Linked List | 6 | 12% |
+| String | 11 | 21% |
+| Hash Table | 10 | 19% |
+| Sorting | 8 | 15% |
+| Linked List | 7 | 13% |
 | Matrix | 6 | 12% |
 | Math | 5 | 10% |
 | Dynamic Programming | 4 | 8% |
@@ -67,7 +67,7 @@
 | [Greedy](Topics/greedy/) | 2 |
 | [Hash Table](Topics/hash-table/) | 12 |
 | [Heap](Topics/heap/) | 0 |
-| [Linked List](Topics/linked-list/) | 9 |
+| [Linked List](Topics/linked-list/) | 10 |
 | [Manacher](Topics/manacher/) | 1 |
 | [Math](Topics/math/) | 9 |
 | [Matrix](Topics/matrix/) | 6 |
@@ -77,7 +77,7 @@
 | [Pigeonhole Principle](Topics/pigeonhole-principle/) | 1 |
 | [Prefix Sum](Topics/prefix-sum/) | 2 |
 | [Quicksort](Topics/quicksort/) | 2 |
-| [Recursion](Topics/recursion/) | 3 |
+| [Recursion](Topics/recursion/) | 4 |
 | [Segment Tree](Topics/segment-tree/) | 1 |
 | [Simulation](Topics/simulation/) | 3 |
 | [Sliding Window](Topics/sliding-window/) | 1 |
