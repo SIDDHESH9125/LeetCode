@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-10-13T16:35:42.360Z",
+  "updatedAt": "2026-10-13T17:13:17.179Z",
   "problems": [
     {
       "frontendId": "2",
@@ -124,6 +124,26 @@
           "path": "0142-linked-list-cycle-ii/0142-linked-list-cycle-ii.java",
           "sha": "6022060c045144e6ff3236085ca94690aff67189",
           "lastSyncedAt": "2026-10-10T10:17:00.323Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "148",
+      "title": "Sort List",
+      "slug": "sort-list",
+      "problemName": "0148-sort-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-list/",
+      "folderPath": "0148-sort-list/",
+      "readmePath": "0148-sort-list/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0148-sort-list.java",
+          "path": "0148-sort-list/0148-sort-list.java",
+          "sha": "56c04cfe8fbc11fa0e9fdc2f614b8b8c1c8885d2",
+          "lastSyncedAt": "2026-10-13T17:13:17.179Z"
         }
       ]
     },
