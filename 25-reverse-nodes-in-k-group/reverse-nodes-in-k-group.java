@@ -9,7 +9,7 @@
  * }
  */
 class Solution {
-    ListNode reverse(ListNode temp){
+   ListNode reverse(ListNode temp){
         ListNode prev=null;
 
         while(temp != null){
